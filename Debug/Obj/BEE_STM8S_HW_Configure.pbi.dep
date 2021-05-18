@@ -1,0 +1,4 @@
+BEE_STM8S_HW_Configure.pbi: M:\STM8\RF433\ Decode\BEE_STM8S_HW_Configure.c \
+  M:\STM8\RF433\ Decode/BEE_STM8S_HW_Configure.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s003f3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc/io_macros.h
